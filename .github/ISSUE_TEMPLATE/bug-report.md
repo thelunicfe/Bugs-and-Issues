@@ -1,14 +1,14 @@
 ---
 name: Bug Report
 about: Found a bug? Please report using this!
-title: ''
+title: ''warzone bug
 labels: ''
 assignees: ''
 
 ---
 
 **Describe the Bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. so when they restarted the server i was in warzone and after i got a 25 min cooldown and lost my 10k from it too 
 
 **To Reproduce**
 Steps to reproduce the behavior:
